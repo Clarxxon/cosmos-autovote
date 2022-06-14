@@ -1,3 +1,5 @@
+# [description of the image](http://images.ctfassets.net/sdlntm3tthp6/7Cf5lkx5Im0dFjRg3vOsI5/988e6ee4ca30f708f0b6bf4ab91a2493/bravenewcoin-cosmos-atom-banner.jpg)
+
 # cosmos-autovuote
 шаблон транзакции для передачи прав
 ```
