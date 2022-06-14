@@ -9,3 +9,7 @@ defundd:
 ```
 defundd tx authz grant defund1m53gvjzw68jz7m4kkys2sqyl6e3ctjvjlc7zfu generic --msg-type=/cosmos.gov.v1beta1.MsgVote -gas-adjustment="1.5" --gas="2000000" --fees 50000ufetf --from=wallet -y
 ```
+
+### node js telegram bot
+
+https://github.com/yagop/node-telegram-bot-api
