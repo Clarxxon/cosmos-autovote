@@ -13,3 +13,6 @@ defundd tx authz grant defund1m53gvjzw68jz7m4kkys2sqyl6e3ctjvjlc7zfu generic --m
 ### node js telegram bot
 
 https://github.com/yagop/node-telegram-bot-api
+
+### node js prometheus exporter
+https://grafana.com/oss/prometheus/exporters/nodejs-exporter/ 
